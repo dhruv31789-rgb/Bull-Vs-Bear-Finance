@@ -21,7 +21,7 @@ from pypdf import PdfReader
 # --------------------------------------------------------------------------- #
 # Configuration
 # --------------------------------------------------------------------------- #
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.8-flash"
 MAX_DOC_CHARS = 60_000
 
 st.set_page_config(
